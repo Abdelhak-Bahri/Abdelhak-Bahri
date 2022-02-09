@@ -306,12 +306,7 @@ NodeJs, React, Scrum, Git** - 📫 How to reach me **hello@abdelhakbahri.com**
 
 <h3 align="left">Articles:</h3>
 
--
-<a href=""
-  ><p>
-    Start/Stop Azure Virtual Machines using A Rest API and Azure functions
-  </p></a
->
+- <a href="https://medium.com/@abdelhakbahri/start-stop-azure-virtual-machines-using-a-rest-api-and-azure-functions-a62758decc34"><p>Start/Stop Azure Virtual Machines using A Rest API and Azure functions</p></a>
 
 <h3 align="left">Open Source Stats:</h3>
 
