@@ -24,13 +24,13 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Queekly](https://cleverzone.io/queekly/) - 🌱 I’m
-currently learning **MicroFrotnEnds, JAMstack, MicroServices** - 👯 I’m looking
-to collaborate on **Arabic Language projects and Reverse Engineering Book** - 👨‍💻 All of my projects are
-available at [https://abdelhakbahri.com](https://abdelhakbahri.com) - 📝 I
-regularly write articles on
-[https://abdelhakbahri.com](https://abdelhakbahri.com) - 💬 Ask me about **.Net,
-NodeJs, React, Scrum, Git** - 📫 How to reach me **hello@abdelhakbahri.com**
+- 🔭 I’m currently working on [Lablabee](https://www.lablabee.com/) 
+- 🌱 I’m currently learning **MicroFrotnEnds, JAMstack, MicroServices** 
+- 👯 I’m looking to collaborate on **Arabic Language projects and Reverse Engineering Book**
+- 👨‍💻 All of my projects are available at [https://abdelhakbahri.com](https://abdelhakbahri.com) 
+- 📝 I sometimes write articles on [https://abdelhakbahri.com](https://abdelhakbahri.com) 
+- 💬 Ask me about **.Net, NodeJs, React, Scrum, Git** 
+- 📫 How to reach me **hello@abdelhakbahri.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -332,6 +332,7 @@ NodeJs, React, Scrum, Git** - 📫 How to reach me **hello@abdelhakbahri.com**
     alt="abdelhak-bahri"
   />
 </p>
+
 
 <h3 align="left">Support:</h3>
 <p>
