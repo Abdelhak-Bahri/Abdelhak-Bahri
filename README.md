@@ -24,12 +24,12 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Lablabee](https://www.lablabee.com/) 
-- 🌱 I’m currently learning **MicroFrotnEnds, JAMstack, MicroServices** 
+- 🔭 I’m currently working on [Evercam](https://www.evercam.io/) 
+- 🌱 I’m currently learning **MicroFrotnEnds, JAMstack, MicroServices, Video Streaming technologies** 
 - 👯 I’m looking to collaborate on **Arabic Language projects and Reverse Engineering Book**
 - 👨‍💻 All of my projects are available at [https://abdelhakbahri.com](https://abdelhakbahri.com) 
 - 📝 I sometimes write articles on [https://abdelhakbahri.com](https://abdelhakbahri.com) 
-- 💬 Ask me about **.Net, NodeJs, React, Scrum, Git** 
+- 💬 Ask me about **.Net, NodeJs, React, Scrum, Git, Azure and AWS** 
 - 📫 How to reach me **hello@abdelhakbahri.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -334,15 +334,5 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/abdelhakbahri">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="abdelhakbahri"
-  /></a>
-</p>
+
 <br /><br />
