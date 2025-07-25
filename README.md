@@ -25,8 +25,8 @@
 </p>
 
 - 🔭 I’m currently working on [Evercam](https://www.evercam.io/) 
-- 🌱 I’m currently learning **MicroFrotnEnds, JAMstack, MicroServices, Video Streaming technologies** 
-- 👯 I’m looking to collaborate on **Arabic Language projects and Reverse Engineering Book**
+- 🌱 I’m currently learning **Elixir, Quantum Computing and IOT** 
+- 👯 I’m looking to collaborate on **Arabic Language projects and Reverse Engineering**
 - 👨‍💻 All of my projects are available at [https://abdelhakbahri.com](https://abdelhakbahri.com) 
 - 📝 I sometimes write articles on [https://abdelhakbahri.com](https://abdelhakbahri.com) 
 - 💬 Ask me about **.Net, NodeJs, React, Scrum, Git, Azure and AWS** 
